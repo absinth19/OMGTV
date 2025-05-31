@@ -124,34 +124,37 @@ jobs:
           python calcio.py
           echo "=== STEP 7: Calcio completed ==="
 
-      # STEP 8: Update Itaevents (ULTIMO)
-      - name: "STEP 8: Clean JSON files for Itaevents"
+      # STEP 8: Update MPD
+      - name: "STEP 8: Run script mpdenv"
         run: |
-          echo "=== STEP 8: Starting Itaevents update (FINAL) ==="
+          echo "=== STEP 8: Starting MPD update ==="
+          python mpdenv.py
+          echo "=== STEP 8: MPD completed ==="
+          
+      # STEP 9: Update Itaevents (ULTIMO)
+      - name: "STEP 9: Clean JSON files for Itaevents"
+        run: |
+          echo "=== STEP 9: Starting Itaevents update (FINAL) ==="
           rm -f daddyliveSchedule.json
           echo "File JSON eliminati per garantire dati freschi"
-
-      - name: "STEP 8: Run extract schedule"
+          
+      - name: "STEP 9: Run extract schedule"
         run: |
           python extract_schedule.py
 
-      - name: "STEP 8: Run daddy ita e fullita"
+      - name: "STEP 9: Run daddy ita e fullita"
         run: |
           python itaevents.py
           python fullita.py
 
-      - name: "STEP 8: Run mergelists"
+      - name: "STEP 9: Run mergelists"
         run: |
           python mergelists.py channels_italy.m3u8 247ita.m3u8 mpd.m3u8 calcio_playlist.m3u8 sportstreaming_playlist.m3u8 sportzone.m3u8 itaevents.m3u8
 
-      - name: "STEP 8: Run epg"
+      - name: "STEP 9: Run epg"
         run: |
           python epg.py
-          echo "=== STEP 8: Itaevents completed ==="
-
-      - name: "STEP 9: Run script mpdenv"
-        run: |
-          python mpdenv.py
+          echo "=== STEP 9: Itaevents completed ==="
           
           # Commit finale
       - name: "FINAL: Commit and push all changes"
