@@ -149,7 +149,11 @@ jobs:
           python epg.py
           echo "=== STEP 8: Itaevents completed ==="
 
-      # Commit finale
+      - name: "STEP 9: Run script mpdenv"
+        run: |
+          python mpdenv.py
+          
+          # Commit finale
       - name: "FINAL: Commit and push all changes"
         run: |
           echo "=== FINAL: Committing all changes ==="
