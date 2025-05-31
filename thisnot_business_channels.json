@@ -1,28 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SportF1_IT": {
-    "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP BARCELLONA - SPAGNA",
-      "date": "SABATO 31 MAGGIO",
-      "event": "15:00 Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportF1_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=TSN5": {
-    "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP BARCELLONA - SPAGNA",
-      "date": "SABATO 31 MAGGIO",
-      "event": "15:00 Gara",
-      "channel": "TSN",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=TSN5"
-    }
-  },
   "https://thisnot.business/player.php?id=Sport251_IT": {
     "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd&key_id=0036384f59a2b80ed142f82250c79f77&key=2e6507cb779a28739b0bb1564f418823",
     "info": {
@@ -31,7 +7,7 @@
       "date": "LUNEDI 2 GIUGNO (Andata)",
       "event": "21:00 Paris Saint-Germain - Inter",
       "channel": "Sky Sport",
-      "language": "ca",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Sport251_IT"
     }
   },
@@ -119,6 +95,30 @@
       "url": "https://thisnot.business/player.php?id=SportCalcio_IT"
     }
   },
+  "https://thisnot.business/player.php?id=SportF1_IT": {
+    "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
+    "info": {
+      "category": "FORMULA 1",
+      "title": "GP BARCELLONA - SPAGNA",
+      "date": "DOMENICA 1 GIUGNO",
+      "event": "15:00 Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportF1_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=TSN5": {
+    "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da",
+    "info": {
+      "category": "FORMULA 1",
+      "title": "GP BARCELLONA - SPAGNA",
+      "date": "DOMENICA 1 GIUGNO",
+      "event": "15:00 Gara",
+      "channel": "TSN",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=TSN5"
+    }
+  },
   "https://thisnot.business/player.php?id=Eurosport1RG": {
     "proxy_url": "https://ale-passaggio.onrender.com/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
     "info": {
@@ -127,7 +127,7 @@
       "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
       "event": "11:00 Live",
       "channel": "Eurosport 1",
-      "language": "it",
+      "language": "ca",
       "url": "https://thisnot.business/player.php?id=Eurosport1RG"
     }
   },
