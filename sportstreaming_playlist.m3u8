@@ -1,16 +1,127 @@
 #EXTM3U
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live1.png" tvg-name="Sport 24", Sport 24 (SpS)
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/2.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live1.png" tvg-id="sport-24" tvg-name="Sport 24",Sport 24 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/2.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live2.png" tvg-name="Formula 1", Formula 1 (SpS)
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/4.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live2.png" tvg-id="formula-1" tvg-name="Formula 1",Formula 1 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/4.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live3.png" tvg-name="Moto GP", Moto GP (SpS)
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/5.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live3.png" tvg-id="moto-gp" tvg-name="Moto GP",Moto GP (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/5.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live4.png" tvg-name="NBA", NBA (SpS)
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/9.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live4.png" tvg-id="nba" tvg-name="NBA",NBA (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/9.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-name="Tennis", Tennis (SpS)
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="golf" tvg-name="Golf",Golf (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/67.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="sport-uno" tvg-name="Sport Uno",Sport Uno (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="sport-calcio" tvg-name="Sport Calcio",Sport Calcio (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/6.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="sport-max" tvg-name="Sport Max",Sport Max (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/7.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="sport-arena" tvg-name="Sport Arena",Sport Arena (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/66.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-uno" tvg-name="Cinema Uno",Cinema Uno (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/68.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-due" tvg-name="Cinema Due",Cinema Due (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/69.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-collection" tvg-name="Cinema Collection",Cinema Collection (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/70.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-family" tvg-name="Cinema Family",Cinema Family (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/71.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-action" tvg-name="Cinema Action",Cinema Action (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/72.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-suspense" tvg-name="Cinema Suspense",Cinema Suspense (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/73.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-romance" tvg-name="Cinema Romance",Cinema Romance (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/74.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-drama" tvg-name="Cinema Drama",Cinema Drama (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/75.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cinema-comedy" tvg-name="Cinema Comedy",Cinema Comedy (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/76.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="uno" tvg-name="Uno",Uno (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/91.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="atlantic" tvg-name="Atlantic",Atlantic (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/92.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="serie" tvg-name="Serie",Serie (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/93.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="investigation" tvg-name="Investigation",Investigation (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/94.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="comedy-central" tvg-name="Comedy Central",Comedy Central (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/95.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="arte" tvg-name="Arte",Arte (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/78.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="documentaries" tvg-name="Documentaries",Documentaries (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/79.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="nature" tvg-name="Nature",Nature (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/80.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="nove" tvg-name="Nove",Nove (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/81.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="real-time" tvg-name="Real Time",Real Time (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/82.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="food-network" tvg-name="Food Network",Food Network (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/83.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="dmax" tvg-name="DMAX",DMAX (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/84.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="hgtv" tvg-name="HGTV",HGTV (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/85.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="history" tvg-name="History",History (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/86.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="crime" tvg-name="Crime",Crime (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/87.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="tv8" tvg-name="TV8",TV8 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/88.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="gambero-rosso" tvg-name="Gambero Rosso",Gambero Rosso (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/90.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="rai-1" tvg-name="Rai 1",Rai 1 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/19.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="rai-2" tvg-name="Rai 2",Rai 2 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/20.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="rai-3" tvg-name="Rai 3",Rai 3 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/21.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="rete-4" tvg-name="Rete 4",Rete 4 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/22.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="canale-5" tvg-name="Canale 5",Canale 5 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/23.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="italia-1" tvg-name="Italia 1",Italia 1 (SpS)
+https://trimming-passaggio.hf.space/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/24.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
