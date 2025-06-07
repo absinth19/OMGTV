@@ -712,7 +712,7 @@ def process_events():
 
                                     italian_sport_key = translate_sport_to_italian(clean_sport_key)
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
-                                    file.write(f"{DDTVPROXY}{DDPROXYMFP}{stream_url_dynamic}{DDPROXYMFP2}\n\n")
+                                    file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}\n\n")
                                 included_channels_count += 1
 
                             else:
