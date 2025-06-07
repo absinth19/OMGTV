@@ -19,10 +19,10 @@ def update_proxy_links(m3u8_filepath, env_filepath):
 
     print(f"Utilizzo del proxy base URL: {proxy_base_url}")
 
-    # Il placeholder specifico da cercare e sostituire nel file M3U8
-    placeholder_to_replace = "{MPDPROXYMFP}"
-    print(f"Placeholder da cercare e sostituire: {placeholder_to_replace}")
-
+    # Estrarre l'hostname e il percorso dal proxy_base_url per la sostituzione
+    from urllib.parse import urlparse
+    proxy_url_parts = urlparse(proxy_base_url)
+    proxy_hostname = f"{proxy_url_parts.scheme}://{proxy_url_parts.hostname}:{proxy_url_parts.port}"
     
     lines_to_write = []
     updated_count = 0
@@ -33,19 +33,25 @@ def update_proxy_links(m3u8_filepath, env_filepath):
             lines = f.readlines()
 
         for line_number, original_line in enumerate(lines, 1):
-            stripped_line = original_line.strip() # Lavora con la linea senza spazi bianchi iniziali/finali per il controllo
-            processed_line = original_line # Inizializza con la riga originale per mantenere newline, ecc.
+            stripped_line = original_line.strip()
+            processed_line = original_line
 
-            if not stripped_line or stripped_line.startswith("#"): # Salta righe vuote o commenti (tranne #EXTINF)
-                lines_to_write.append(original_line) # Mantieni la riga originale con il suo newline
+            if not stripped_line or stripped_line.startswith("#"):
+                lines_to_write.append(original_line)
                 continue
+            
+            # Cerca qualsiasi URL che contenga "proxy/mpd/manifest.m3u8"
+            if "proxy/mpd/manifest.m3u8" in stripped_line:
+                # Estrai l'hostname corrente dall'URL
+                current_url_parts = urlparse(stripped_line.split("?")[0])
+                current_hostname = f"{current_url_parts.scheme}://{current_url_parts.hostname}:{current_url_parts.port}"
                 
-            if stripped_line.startswith(placeholder_to_replace):
-                # Sostituisci il placeholder con il proxy_base_url
-                modified_content = stripped_line.replace(placeholder_to_replace, proxy_base_url, 1)
-                if modified_content != stripped_line:
-                    processed_line = modified_content + '\n' # Assicura che la riga modificata abbia un newline
-                    updated_count += 1
+                # Sostituisci solo l'hostname mantenendo il resto dell'URL
+                if current_hostname != proxy_hostname:
+                    modified_content = stripped_line.replace(current_hostname, proxy_hostname)
+                    if modified_content != stripped_line:
+                        processed_line = modified_content + '\n'
+                        updated_count += 1
                     
             lines_to_write.append(processed_line)
 
