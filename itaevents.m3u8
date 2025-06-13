@@ -833,6 +833,57 @@ https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="Major League Soccer - Los Angeles FC vs Toronto FC" tvg-name="04:30 Major League Soccer : Los Angeles FC vs Toronto FC - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
 https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-19.php&redirect_stream=true&api_password=Leggila
 
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1507.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1507.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Opelka R." tvg-name="14:30 ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch", Tennis Stream 9
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1509.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Opelka R." tvg-name="14:30 ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1507.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Lajal M." tvg-name="16:00 ATP - HERTOGENBOSCH : Bergs Z. vs Lajal M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1507.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Engel J. vs Auger-Aliassime F." tvg-name="11:00 ATP - STUTTGART : Engel J. vs Auger-Aliassime F. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1508.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Fucsovics M. vs Fritz T." tvg-name="12:30 ATP - STUTTGART : Fucsovics M. vs Fritz T. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1508.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Nakashima B." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Nakashima B. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1508.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Shelton B. vs Lehecka J." tvg-name="17:00 ATP - STUTTGART : Shelton B. vs Lehecka J. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1508.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Kudermetova V. vs Alexandrova E." tvg-name="11:00 WTA - HERTOGENBOSCH : Kudermetova V. vs Alexandrova E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1503.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Yuan Y. vs Mertens E." tvg-name="12:30 WTA - HERTOGENBOSCH : Yuan Y. vs Mertens E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1503.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Cocciaretto E. vs Lamens S." tvg-name="14:30 WTA - HERTOGENBOSCH : Cocciaretto E. vs Lamens S. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1504.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Andreescu B." tvg-name="16:00 WTA - HERTOGENBOSCH : Ruse G. vs Andreescu B. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1504.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Keys M." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Keys M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London", Tennis Stream 1
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1501.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Maria T. vs Rybakina E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London", Tennis Stream 1
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1501.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Raducanu E." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Raducanu E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London", Tennis Stream 1
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1501.php&redirect_stream=true&api_password=Leggila
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Navarro E. vs Anisimova A." tvg-name="17:30 WTA - LONDON : Navarro E. vs Anisimova A. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London", Tennis Stream 1
+https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-1501.php&redirect_stream=true&api_password=Leggila
+
 #EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://trimming-passaggio.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/stream/stream-40.php&redirect_stream=true&api_password=Leggila
 
